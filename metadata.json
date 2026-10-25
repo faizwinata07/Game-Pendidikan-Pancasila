@@ -1,0 +1,6 @@
+{
+  "name": "Lorong Waktu Nusantara: Misi Sidang 1945",
+  "description": "Edu-Game interaktif Pendidikan Pancasila SMA Kelas 11 berlatar sidang BPUPKI & PPKI 1945 dengan pendekatan Culturally Responsive Teaching (CRT).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
